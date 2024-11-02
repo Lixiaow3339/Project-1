@@ -8,4 +8,4 @@ This website is for the purpose of assignment in the course PHYS 601. The websit
 # CV
 
 <!-- How to embed a PDF -->
-<iframe width="100%" height="600" src="./media/SWE_Resume_Template.pdf">
+<iframe width="100%" height="600" src="./media/CURRICULUM VITAE WANG Lixiao.pdf">
