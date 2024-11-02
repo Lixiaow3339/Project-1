@@ -1,6 +1,7 @@
 # Introduction
 
-This website is for the purpose of assignment in the course PHYS 601. The website is currently managed by Lixiao Wang, graduate student in physics in McGill University. 
+This website is for the purpose of assignment in the course PHYS 601. The website is currently managed by Lixiao Wang (me), graduate student in physics in McGill University. 
+Due technical issues, the website is in building process and is not officially open yet. 
 
 # Other Interests
 
