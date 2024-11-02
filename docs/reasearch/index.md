@@ -1,5 +1,4 @@
 # Research Interests
 
-...
 
 ## Recent Highlights
