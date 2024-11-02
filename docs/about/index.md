@@ -4,8 +4,8 @@ This website is for the purpose of assignment in the course PHYS 601. The websit
 
 Due to technical issues, the website is still in building process and is not officially open yet. 
 
-# Other Interests
-
+# ..
+Please ignore some of informations on this website.
 
 # CV
 
